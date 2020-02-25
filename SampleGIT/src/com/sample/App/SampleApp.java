@@ -9,6 +9,9 @@ public class SampleApp {
 		
 		System.out.println("Hello \t\t welcome");
 		
+		//From abinand
+		System.out.println("Hello \t\t welcome guruji");
+		
 		
 		
 	}
