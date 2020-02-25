@@ -9,7 +9,7 @@ public class SampleApp {
 		
 		System.out.println("Hello \t\t welcome");
 		
-		//From abinand
+		//From abinand First
 		System.out.println("Hello \t\t welcome guruji");
 		
 		
